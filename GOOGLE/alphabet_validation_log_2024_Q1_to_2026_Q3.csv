@@ -1,0 +1,45 @@
+fiscal_year,quarter,period_end,validation_test,reported_value_usd_millions,calculated_value_usd_millions,difference_usd_millions,status,source_document
+2024,Q1,2024-03-31,Google advertising,61659.0,61659.0,0.0,PASS,2024q1-alphabet-earnings-release-pdf.pdf
+2024,Q1,2024-03-31,Google Services,70398.0,70398.0,0.0,PASS,2024q1-alphabet-earnings-release-pdf.pdf
+2024,Q1,2024-03-31,Consolidated revenue,80539.0,80539.0,0.0,PASS,2024q1-alphabet-earnings-release-pdf.pdf
+2024,Q1,2024-03-31,Consolidated operating income,25472.0,25472.0,0.0,PASS,2024q1-alphabet-earnings-release-pdf.pdf
+2024,Q2,2024-06-30,Google advertising,64616.0,64616.0,0.0,PASS,2024q2-alphabet-earnings-release.pdf
+2024,Q2,2024-06-30,Google Services,73928.0,73928.0,0.0,PASS,2024q2-alphabet-earnings-release.pdf
+2024,Q2,2024-06-30,Consolidated revenue,84742.0,84742.0,0.0,PASS,2024q2-alphabet-earnings-release.pdf
+2024,Q2,2024-06-30,Consolidated operating income,27425.0,27425.0,0.0,PASS,2024q2-alphabet-earnings-release.pdf
+2024,Q3,2024-09-30,Google advertising,65854.0,65854.0,0.0,PASS,2024q3-alphabet-earnings-release.pdf
+2024,Q3,2024-09-30,Google Services,76510.0,76510.0,0.0,PASS,2024q3-alphabet-earnings-release.pdf
+2024,Q3,2024-09-30,Consolidated revenue,88268.0,88268.0,0.0,PASS,2024q3-alphabet-earnings-release.pdf
+2024,Q3,2024-09-30,Consolidated operating income,28521.0,28521.0,0.0,PASS,2024q3-alphabet-earnings-release.pdf
+2024,Q4,2024-12-31,Google advertising,72461.0,72461.0,0.0,PASS,2024q4-alphabet-earnings-release.pdf
+2024,Q4,2024-12-31,Google Services,84094.0,84094.0,0.0,PASS,2024q4-alphabet-earnings-release.pdf
+2024,Q4,2024-12-31,Consolidated revenue,96469.0,96469.0,0.0,PASS,2024q4-alphabet-earnings-release.pdf
+2024,Q4,2024-12-31,Consolidated operating income,30972.0,30972.0,0.0,PASS,2024q4-alphabet-earnings-release.pdf
+2025,Q1,2025-03-31,Google advertising,66885.0,66885.0,0.0,PASS,2025q1-alphabet-earnings-release(1).pdf
+2025,Q1,2025-03-31,Google Services,77264.0,77264.0,0.0,PASS,2025q1-alphabet-earnings-release(1).pdf
+2025,Q1,2025-03-31,Consolidated revenue,90234.0,90234.0,0.0,PASS,2025q1-alphabet-earnings-release(1).pdf
+2025,Q1,2025-03-31,Consolidated operating income,30606.0,30606.0,0.0,PASS,2025q1-alphabet-earnings-release(1).pdf
+2025,Q2,2025-06-30,Google advertising,71340.0,71340.0,0.0,PASS,2025q2-alphabet-earnings-release(1).pdf
+2025,Q2,2025-06-30,Google Services,82543.0,82543.0,0.0,PASS,2025q2-alphabet-earnings-release(1).pdf
+2025,Q2,2025-06-30,Consolidated revenue,96428.0,96428.0,0.0,PASS,2025q2-alphabet-earnings-release(1).pdf
+2025,Q2,2025-06-30,Consolidated operating income,31271.0,31271.0,0.0,PASS,2025q2-alphabet-earnings-release(1).pdf
+2025,Q3,2025-09-30,Google advertising,74182.0,74182.0,0.0,PASS,2025q3-alphabet-earnings-release(1).pdf
+2025,Q3,2025-09-30,Google Services,87052.0,87052.0,0.0,PASS,2025q3-alphabet-earnings-release(1).pdf
+2025,Q3,2025-09-30,Consolidated revenue,102346.0,102346.0,0.0,PASS,2025q3-alphabet-earnings-release(1).pdf
+2025,Q3,2025-09-30,Consolidated operating income,31228.0,31228.0,0.0,PASS,2025q3-alphabet-earnings-release(1).pdf
+2025,Q4,2025-12-31,Google advertising,82284.0,82284.0,0.0,PASS,2025q4-alphabet-earnings-release(1).pdf
+2025,Q4,2025-12-31,Google Services,95862.0,95862.0,0.0,PASS,2025q4-alphabet-earnings-release(1).pdf
+2025,Q4,2025-12-31,Consolidated revenue,113828.0,113828.0,0.0,PASS,2025q4-alphabet-earnings-release(1).pdf
+2025,Q4,2025-12-31,Consolidated operating income,35934.0,35934.0,0.0,PASS,2025q4-alphabet-earnings-release(1).pdf
+2026,Q1,2026-03-31,Google advertising,77253.0,77253.0,0.0,PASS,2026q1-alphabet-earnings-release.pdf
+2026,Q1,2026-03-31,Google Services,89637.0,89637.0,0.0,PASS,2026q1-alphabet-earnings-release.pdf
+2026,Q1,2026-03-31,Consolidated revenue,109896.0,109896.0,0.0,PASS,2026q1-alphabet-earnings-release.pdf
+2026,Q1,2026-03-31,Consolidated operating income,39696.0,39696.0,0.0,PASS,2026q1-alphabet-earnings-release.pdf
+2026,Q2,2026-06-30,Google advertising,81629.0,81629.0,0.0,PASS,2026q2-alphabet-earnings-release.pdf
+2026,Q2,2026-06-30,Google Services,94540.0,94540.0,0.0,PASS,2026q2-alphabet-earnings-release.pdf
+2026,Q2,2026-06-30,Consolidated revenue,119796.0,119796.0,0.0,PASS,2026q2-alphabet-earnings-release.pdf
+2026,Q2,2026-06-30,Consolidated operating income,40770.0,40770.0,0.0,PASS,2026q2-alphabet-earnings-release.pdf
+2026,Q3,2026-09-30,Google advertising,82012.0,82012.0,0.0,PASS,2026q3-alphabet-earnings-release.pdf
+2026,Q3,2026-09-30,Google Services,96302.0,96302.0,0.0,PASS,2026q3-alphabet-earnings-release.pdf
+2026,Q3,2026-09-30,Consolidated revenue,127577.0,127577.0,0.0,PASS,2026q3-alphabet-earnings-release.pdf
+2026,Q3,2026-09-30,Consolidated operating income,40576.0,40576.0,0.0,PASS,2026q3-alphabet-earnings-release.pdf
